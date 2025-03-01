@@ -1,94 +1,99 @@
-# eDuty (Front-End)
+# 🧑‍💻 Elia-gardmanager (Front-End) 
 
-Ce projet est le frontend de l'application **Elia GardManager**.  
-Il permet d'afficher et de gérer des plannings de travail de manière interactive et efficace.
+## 📋 Project Overview
+Welcome to Elia-gardmanager, the front-end application.
+This app allows users to view and manage work schedules interactively and efficiently.
 
-L'application est construite avec **React**, **Vite** et **TailwindCSS**, offrant une interface fluide et moderne.
+Built with React, Vite, and TailwindCSS, this application provides a smooth, modern interface for easy management of shifts and events.
 
----
+## 📱 Features
+Interactive Interface: Easy-to-use, interactive schedule management with a clean, responsive design.
+Event Management: Add, modify, and delete shifts directly from the calendar.
+Dynamic Display: Shifts are color-coded for better readability and organization.
+Modern Tech Stack: Built with React for component management and TailwindCSS for a responsive, modern design.
 
-## ✨ Fonctionnalités  
+## 📸 Project Preview
 
-- **Interface interactive** : Gestion intuitive des plannings avec une interface claire et réactive.  
-- **Gestion des événements** : Possibilité d'ajouter, modifier et supprimer des événements/shifts.  
-- **Affichage dynamique** : Les plannings sont affichés avec des couleurs distinctes pour une meilleure lisibilité.  
-- **React & TailwindCSS** : Utilisation de **React** pour la gestion des composants et **TailwindCSS** pour un design moderne et adaptable.  
+## 📂 Project Structure
+index.html
+assets/
+img/
+eDuty-screenshot.png
+logo-elia-gardmanager.svg
+css/
+style.css
+js/
+app.js
 
----
+## 🚀 Technologies Used
+React for building dynamic user interfaces.
+Vite for fast development build and optimized production deployment.
+TailwindCSS for modern, responsive design.
+Backend API for managing shift data and user interactions.
 
-## ✅ Ce qui est déjà fait  
+## ⚙️ How to Run the Project
+Follow these steps to set up and run eDuty locally.
 
-L'application permet actuellement :  
-
-✔️ **D'afficher un calendrier interactif** avec des shifts colorés.  
-✔️ **D'ajouter/modifier/supprimer des événements** via un popup dynamique.  
-✔️ **De gérer les données** via un backend connecté.  
-
----
-
-## 🔜 À venir  
-
-🚀 **Amélioration de l'interface** : Ajout de nouvelles animations et transitions pour une meilleure expérience utilisateur.  
-🔍 **Filtres et recherches avancées** : Possibilité de filtrer les shifts par utilisateur, date, type, etc.  
-📡 **Notifications en temps réel** : Ajout de WebSockets pour synchroniser les modifications instantanément.  
-
----
-
-## 📥 Installation  
-
-### 1️⃣ Cloner ce dépôt sur votre machine locale  
-```sh
-git clone https://github.com/ton-org/elia-gardmanager-frontend.git
+1️⃣ Clone the repository to your local machine
+```bash
+git clone https://github.com/your-username/elia-gardmanager-frontend.git
 cd elia-gardmanager-frontend
 ```
 
-### 2️⃣ Installer les dépendances  
-```sh
-npm install  # ou yarn install
+2️⃣ Install the dependencies
+```bash
+npm install  # or yarn install
 ```
 
-### 3️⃣ Lancer le serveur de développement  
-```sh
+3️⃣ Run the development server
+```bash
 npm run dev
 ```
-📍 L'application sera accessible sur **[http://localhost:5173](http://localhost:5173)**  
+📍 The application will be available at http://localhost:5173
 
----
+## 🛠️ Useful Commands
 
-## 🛠️ Commandes utiles  
+Start in development mode:
+```bash
+npm run dev
+```
+Build for production:
+```bash
+npm run build
+```
+Preview production build:
+```bash
+npm run preview
+```
+Linting check and fix:
+```bash
+npm run lint
+```
 
-- **Démarrer en mode développement :**  
-  ```sh
-  npm run dev
-  ```
-- **Build pour la production :**  
-  ```sh
-  npm run build
-  ```
-- **Aperçu du build de production :**  
-  ```sh
-  npm run preview
-  ```
-- **Vérification et correction du code (Lint) :**  
-  ```sh
-  npm run lint
-  ```
+## 🔑 API Configuration
+If the project uses environment variables, create a .env file at the root with the necessary values.
 
----
+**Example:**
 
-## ⚙️ Configuration  
-
-Si le projet utilise des **variables d'environnement**, crée un fichier `.env` à la racine avec les valeurs nécessaires.  
-
-Exemple :  
 ```sh
 VITE_API_URL=https://api.example.com
+```
 
----
+## 🔜 To Do
+🚀 - **UI Enhancements:** Add new animations and transitions to enhance the user experience.
+🔍 - **Advanced Filtering:** Implement filters for shifts by user, date, type, etc.
+📡 - **Real-Time Notifications:** Add WebSockets for instant updates when shifts are modified.
 
-## 🔗 Backend  
+## 🔗 Backend
+This project works with the Elia GardManager Backend.
+Ensure that the backend is running before launching the frontend.
 
-Ce projet fonctionne avec le **backend Elia GardManager**.  
-Assure-toi de l'avoir démarré avant de lancer le frontend.  
+## 🔗 Backend Repo: 
+[Elia GardManager Backend](https://github.com/Fauve-mce/Elia-gardManager-backend)
 
-🔗 **Repo Backend** : [Elia GardManager Backend](https://github.com/imadghali01/Elia-gardManager-backend)
+🖼️ Logo
+Here's the logo for the eDuty application:
+
+
+🌐 Live Demo
+Check out the deployed version here: 
