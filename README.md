@@ -89,6 +89,8 @@ Here's the logo for the eDuty application:
 
 ![Logo-Elia-gardmanager](./src/assets/img/LogoElia.png)
 
+## 🎨 Design Overview
+
 ## 🔗 Backend
 This project works with the Elia GardManager Backend.
 Ensure that the backend is running before launching the frontend.
