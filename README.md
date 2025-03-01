@@ -93,6 +93,7 @@ Ensure that the backend is running before launching the frontend.
 
 🖼️ Logo
 Here's the logo for the eDuty application: 
+
 ![Logo-Elia-gardmanager](./src/assets/img/LogoElia.png)
 
 🌐 Live Demo
