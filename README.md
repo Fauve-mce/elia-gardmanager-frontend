@@ -84,6 +84,11 @@ VITE_API_URL=https://api.example.com
 🔍 - **Advanced Filtering:** Implement filters for shifts by user, date, type, etc.
 📡 - **Real-Time Notifications:** Add WebSockets for instant updates when shifts are modified.
 
+## 🖼️ Logo
+Here's the logo for the eDuty application: 
+
+![Logo-Elia-gardmanager](./src/assets/img/LogoElia.png)
+
 ## 🔗 Backend
 This project works with the Elia GardManager Backend.
 Ensure that the backend is running before launching the frontend.
@@ -91,10 +96,6 @@ Ensure that the backend is running before launching the frontend.
 ## 🔗 Backend Repo: 
 [Elia GardManager Backend](https://github.com/Fauve-mce/Elia-gardManager-backend)
 
-🖼️ Logo
-Here's the logo for the eDuty application: 
-
-![Logo-Elia-gardmanager](./src/assets/img/LogoElia.png)
-
-🌐 Live Demo
-Check out the deployed version here: 
+## 🎥 Video Demo
+Check out the video demo here: 
+[Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7301037570862338049/)
