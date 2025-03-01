@@ -92,8 +92,8 @@ Ensure that the backend is running before launching the frontend.
 [Elia GardManager Backend](https://github.com/Fauve-mce/Elia-gardManager-backend)
 
 🖼️ Logo
-Here's the logo for the eDuty application:
-
+Here's the logo for the eDuty application: [Logo-Elia-gardmanager]
+(./src/assets/img/LogoElia.png)
 
 🌐 Live Demo
 Check out the deployed version here: 
