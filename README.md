@@ -92,7 +92,7 @@ Here's the logo for the eDuty application:
 ![Logo-Elia-gardmanager](./src/assets/img/LogoElia.png)
 
 ## 🎨 Design overview
-The application design is based on the provided Figma template, with my personal touch added to make the development process more enjoyable and fun.
+The application design is based on the provided Figma template. Maked by [jeffreydeville](https://github.com/jeffreydeville)
 
 [Figma - Elia-gardmanager project design](https://www.figma.com/design/DD8tqjLX2vkJ25wtVQWqyW/Untitled?node-id=0-1&p=f&t=ovC2CHUkBfLAawNn-0)
 
