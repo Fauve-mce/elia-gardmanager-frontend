@@ -6,6 +6,8 @@ This app allows users to view and manage work schedules interactively and effici
 
 Built with React, Vite, and TailwindCSS, this application provides a smooth, modern interface for easy management of shifts and events.
 
+This is a group project developed by [Elyes0688](https://github.com/Elyes0688), [imadghali01](https://github.com/imadghali01), [jeffreydeville](https://github.com/jeffreydeville) and Fauve-mce.
+
 ## 📱 Features
 Interactive Interface: Easy-to-use, interactive schedule management with a clean, responsive design.
 Event Management: Add, modify, and delete shifts directly from the calendar.
