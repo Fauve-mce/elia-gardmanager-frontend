@@ -93,11 +93,11 @@ Here's the logo for the eDuty application:
 
 ## 🎨 Design Overview
 
-## 🔗 Backend
+## 🔗 Backend Repo: 
+
 This project works with the Elia GardManager backend.
 Ensure that the backend is running before launching the frontend.
 
-## 🔗 Backend Repo: 
 [Elia GardManager Backend](https://github.com/Fauve-mce/Elia-gardManager-backend)
 
 ## 🎥 Video Demo
